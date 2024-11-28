@@ -1,0 +1,12 @@
+what is the difference the body of the request an dthe parameters of request
+
+Don't write the services today, but at least the rounds of.
+Same with the routes same with the mpc, the whole thing with the services. For post, all you need to do is create the schemes. Postman schema, postpress came on again. There are only two things user added,userid, content cretaed A user appetite is here. What you have to do is you have to use the routes and the rest of the four components. Models, controllers and services. because you would be rendered by react later. React to spend a time in your life. Svm, registering ourselves to M, M, N. R is not being used. The actor is not going to be expression. So this is. so this is criteria and expression. So we have complete that. And then on top of it, we have to complete all three. Do not. You don't have to complete the follow feature. You do not have to write the following. You don't have to taken. or his focus is equivalent. But when I come here. which means at the end of this project, at the end of this project, the API that you create from this stand and the api that have created from the task stand should exactly be the same exactly. right there also you use the Jason potential here also you are using Jason Potter which means I only need to I only should be able to should need to change the code on which the app is running. 1 fast app is running on your machine and 1 espresso. espresso for this man I've been studying on your pandemic the same set of crowds the same set of parameters. Everything is exactly the same should be able to be done in both thems. Probably here earlier. Kcb stacks.k                            
+
+Dependencies. A list of packages that are installable directly by the command npm install package installed. Karnataka got caught on the command that we in this case, we would use it.
+
+npm install
+nvm
+
+
+semantic versiony ^ this symbol in back of versions
